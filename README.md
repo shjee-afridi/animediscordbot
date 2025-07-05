@@ -185,7 +185,7 @@ The bot pulls server information directly from [AnimeDiscord.com](https://www.an
 - Use `/help` command for instant assistance
 - Visit [AnimeDiscord.com](https://www.animediscord.com/) for detailed guides
 - Check server status on our website
-- Join our support server for live help
+- Join our [support server](https://discord.gg/v6wVhvEGmG) for live help
 
 ### 🔧 **Common Issues**
 - **Bot not responding**: Check if bot has proper permissions
