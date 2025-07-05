@@ -139,22 +139,6 @@ The bot pulls server information directly from [AnimeDiscord.com](https://www.an
 
 ---
 
-## 📈 Network Statistics
-
-### 🌍 **Massive Reach**
-- **500+** Active servers in the network
-- **100,000+** Total members reached
-- **50,000+** Cross-promotional bumps sent
-- **Growing daily** with new servers joining
-
-### 📊 **Success Metrics**
-- Average of **15-30 new members** per bump for active servers
-- **85%** of servers report increased activity after joining
-- **92%** user satisfaction rate
-- **<1 hour** average response time for support
-
----
-
 ## 🎯 Perfect For These Server Types
 
 ### 🎌 **Anime Servers**
