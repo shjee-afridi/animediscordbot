@@ -1,10 +1,10 @@
-# 🤖 AnimeDiscord & HentaiDiscord Bot
+# 🤖 AnimeDiscord Bot
 
-## 🌟 The Ultimate Cross-Advertising Discord Bot for Anime & Hentai Communities
+## 🌟 The Ultimate Cross-Advertising Discord Bot for Anime Communities
 
 ### 📋 Overview
 
-Our Discord bot is the perfect companion to **[AnimeDiscord.com](https://www.animediscord.com/)** - the premier directory for anime and hentai Discord servers. This powerful bot creates a seamless bridge between your Discord server and our website, enabling automated cross-promotion and community growth through intelligent server advertising.
+Our Discord bot is the perfect companion to **[AnimeDiscord.com](https://www.animediscord.com/)** - the premier directory for anime Discord servers. This powerful bot creates a seamless bridge between your Discord server and our website, enabling automated cross-promotion and community growth through intelligent server advertising.
 
 ---
 
@@ -13,10 +13,10 @@ Our Discord bot is the perfect companion to **[AnimeDiscord.com](https://www.ani
 ### 🔗 **Website Integration**
 - **Automatic Synchronization**: Your server listed on [AnimeDiscord.com](https://www.animediscord.com/) automatically becomes eligible for cross-advertising
 - **Real-time Updates**: Server information, member counts, and settings sync between your Discord server and the website
-- **Dual Domain Support**: Works with both AnimeDiscord.com and HentaiDiscord.com for maximum reach
+- **Dual Domain Support**: Works with both AnimeDiscord.com for maximum reach
 
 ### 🎯 **Smart Cross-Advertising Network**
-- **Intelligent Bump System**: Promote your server to other anime/hentai communities with `/bump` command
+- **Intelligent Bump System**: Promote your server to other anime communities with `/bump` command
 - **Automated Ad Distribution**: Your server advertisement is automatically sent to all participating servers in the network
 - **1-Hour Cooldown**: Prevents spam while ensuring fair promotion opportunities for all servers
 
@@ -41,13 +41,13 @@ Our Discord bot is the perfect companion to **[AnimeDiscord.com](https://www.ani
 ## 🎯 Why Should You Add This Bot?
 
 ### 📈 **Grow Your Community**
-- **Reach Thousands**: Get your server seen by members of hundreds of other anime/hentai communities
-- **Targeted Audience**: Only reaches users already interested in anime/hentai content
+- **Reach Thousands**: Get your server seen by members of hundreds of other anime communities
+- **Targeted Audience**: Only reaches users already interested in anime content
 - **Consistent Growth**: Regular bumping ensures steady influx of new members
 - **Free Promotion**: Completely free alternative to paid Discord server advertising
 
 ### 🤝 **Join a Thriving Network**
-- **Active Community**: Part of a network of hundreds of anime/hentai Discord servers
+- **Active Community**: Part of a network of hundreds of anime Discord servers
 - **Mutual Benefits**: When you bump, you help others grow while growing your own server
 - **Quality Control**: Only verified servers from AnimeDiscord.com participate
 - **Fair System**: 1-hour cooldown ensures everyone gets equal promotion opportunities
@@ -107,7 +107,7 @@ Your server ad will be sent to all other participating servers!
 
 ### 📊 **Information Commands**
 - `/info` - View server statistics and cross-advertising status
-- `/domain` - Check which domain your server uses (AnimeDiscord.com or HentaiDiscord.com)
+- `/domain` - Check which domain your server uses (AnimeDiscord.com)
 - `/serverinfo` - Detailed server information (Admin only)
 
 ### 🔧 **Utility Commands**
@@ -163,13 +163,6 @@ The bot pulls server information directly from [AnimeDiscord.com](https://www.an
 - Anime artwork and fanart servers
 - Anime gaming communities
 - Seasonal anime watchers
-
-### 🔞 **Hentai Servers**
-- Adult anime artwork communities
-- Hentai gaming servers
-- Adult roleplay communities
-- NSFW anime discussion groups
-- Adult content sharing (following Discord ToS)
 
 ### 🎮 **Gaming Servers**
 - Anime-themed gaming communities
@@ -241,18 +234,6 @@ We're always improving! Suggest new features through:
 
 ---
 
-## 📊 Success Stories
-
-*"Added 200+ members in the first week!"* - Anime Paradise Server
-
-*"Best growth tool for anime servers. Highly recommend!"* - Otaku Central
-
-*"Simple setup, amazing results. Our server doubled in size!"* - Hentai Haven
-
-*"Finally found our target audience. Quality members, not just numbers."* - Anime Art Community
-
----
-
 ## 🔮 Future Updates
 
 ### 🎯 **Coming Soon**
@@ -271,10 +252,10 @@ We're always improving! Suggest new features through:
 
 ---
 
-**🌟 Ready to supercharge your anime/hentai Discord server? Join the AnimeDiscord.com network today and start growing your community like never before!**
+**🌟 Ready to supercharge your anime Discord server? Join the AnimeDiscord.com network today and start growing your community like never before!**
 
 **👉 [Get Started at AnimeDiscord.com](https://www.animediscord.com/) 👈**
 
 ---
 
-*This bot is the official companion to AnimeDiscord.com and HentaiDiscord.com - the web's premier anime and hentai Discord server directories.*
+*This bot is the official companion to AnimeDiscord.com - the web's premier anime Discord server directories.*
